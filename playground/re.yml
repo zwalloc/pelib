@@ -1,0 +1,10 @@
+type: executable
+name: ".playground"
+
+load-context.!standalone:
+  enabled: false
+
+load-context.standalone:
+  deps:
+    - pelib
+    - github:osdeverr/futile ^1.0.0
