@@ -7,4 +7,4 @@ load-context.!standalone:
 load-context.standalone:
   deps:
     - pelib
-    - github:osdeverr/futile ^1.0.0
+    - github:zwalloc/futile ^1.0.0
